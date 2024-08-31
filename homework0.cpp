@@ -1,8 +1,4 @@
 /*
- Name: Girwan Dhakal
- Email: gdhakal@crimson.ua.edu
- Course Section: Fall 2023 CS 201
- Homework #:0
  Instructions to Compile: g++ homework0.cpp
  Instructions to Execute: .\a.exe dbfile0.txt
 */
